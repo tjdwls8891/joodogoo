@@ -251,5 +251,5 @@ async def on_reaction_add(reaction, user):
 
 
 # 콧 토큰
-bot.run('ODYyMTk2NjA4NzUzMjA1MjY5.YOU1Kg.pGrddbPVGc9eS82Pwqz17GfIL-A')
+bot.run('토큰')
 # 다른 봇 초대코드 정리 혹으 ㄴ자동 초대, 봇이나 역할 관리, 서버 구성 커스텀
